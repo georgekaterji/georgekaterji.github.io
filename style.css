@@ -50,7 +50,8 @@ hr {
 @media (max-width: 800px) {
   body {
     background: url(header.jpg) no-repeat center center fixed;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: 80%;
     
 }
   }
