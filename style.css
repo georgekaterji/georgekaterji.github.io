@@ -51,7 +51,14 @@ hr {
   body {
     background: url(header.jpg) no-repeat center center fixed;
     background-size: cover;
-    background-position: 10%;
+    background-position: 80%;
     
 }
-  }
+h1{
+    color: red;
+    font-size: 1rem;
+}
+
+
+}
+
